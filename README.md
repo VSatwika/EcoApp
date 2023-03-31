@@ -14,5 +14,5 @@ Work in progress
  
  
  Contributors
-  - Vasupradha (https://github.com/vasupradha2003)
+  - V Vasupradha (https://github.com/vasupradha2003) (vvasupradha2@gmail.com)
 
