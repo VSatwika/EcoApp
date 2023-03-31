@@ -7,3 +7,12 @@ EcoApp is primarily focused on but not limited to,  environment.
 - The app will give a challenge a day to the users which they can easily complete in day's time.
 - They are required to post a little picture of their task which they can share with on various social media platforms.
 
+Work in progress
+ - Videos and quizzes about environment
+ - Tracking daily progress through streaks
+ - Creating a leaderboard
+ 
+ 
+ Contributors
+  - Vasupradha (https://github.com/vasupradha2003)
+
